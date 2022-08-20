@@ -14,5 +14,5 @@ p {
   margin-top: 7rem;
   font-size: 50px;
   text-align: center;
-  color: $main-color;
+  color: rgb(255, 255, 255);
 }
