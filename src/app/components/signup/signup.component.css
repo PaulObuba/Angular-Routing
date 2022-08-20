@@ -1,0 +1,16 @@
+.cover {
+    background-color:  rgba(225, 133, 237, 0.507);
+}
+
+label {
+    font-size: 1rem;
+    margin: 0.3rem;
+}
+
+input {
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    outline: none;
+    border-radius: 5px;
+}

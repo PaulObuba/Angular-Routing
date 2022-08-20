@@ -1,0 +1,16 @@
+h1 {
+    font-family:  Roboto, sans-serif;
+}
+
+.content {
+    padding: 3rem 2rem;
+    text-align: center;
+}
+
+.hero {
+    height: 80vh;
+    background: linear-gradient(to right bottom, rgba(225, 133, 237, 0.507),rgba(252, 96, 69, 0.363)), url(../../images/main.jpg);
+    background-size: cover;
+    overflow: hidden;
+}
+

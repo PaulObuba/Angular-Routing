@@ -1,0 +1,9 @@
+
+.navbar {
+    background-color: rgb(164, 17, 184);
+    color: white;
+}
+li {
+    padding: 0 1rem;
+    margin: 0 0.5rem;
+}
